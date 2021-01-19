@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1611081255 source:/home/siddharth/Desktop/CodeblockProjects/BlueEngine/main.cpp
+	<iostream>
+	"Core/Window.h"
+	"Renderer/Shader.h"
+
+1611080602 source:/home/siddharth/Desktop/CodeblockProjects/BlueEngine/Core/Window.cpp
+	"Window.h"
+
+1611075179 /home/siddharth/Desktop/CodeblockProjects/BlueEngine/Core/Window.h
+	<iostream>
+	<cstdlib>
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+
+1611081310 source:/home/siddharth/Desktop/CodeblockProjects/BlueEngine/Renderer/Shader.cpp
+	"Shader.h"
+
+1611080941 /home/siddharth/Desktop/CodeblockProjects/BlueEngine/Renderer/Shader.h
+	<iostream>
+	<fstream>
+	<GL/glew.h>
+
